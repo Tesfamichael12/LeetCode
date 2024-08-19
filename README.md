@@ -21,6 +21,7 @@
 | [0118-pascals-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamichael12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Tesfamichael12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Tesfamichael12/LeetCode/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
