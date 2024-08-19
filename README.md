@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Tesfamichael12/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/Tesfamichael12/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tesfamichael12/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamichael12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
 ## Interactive
 |  |
 | ------- |
