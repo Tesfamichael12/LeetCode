@@ -30,6 +30,7 @@
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Tesfamichael12/LeetCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Tesfamichael12/LeetCode/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
