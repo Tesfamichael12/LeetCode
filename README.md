@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamichael12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Tesfamichael12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Tesfamichael12/LeetCode/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -96,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Tesfamichael12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
