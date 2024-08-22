@@ -56,6 +56,7 @@
 | [0009-palindrome-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tesfamichael12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Tesfamichael12/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
@@ -82,6 +83,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Tesfamichael12/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
