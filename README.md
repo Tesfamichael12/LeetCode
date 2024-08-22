@@ -55,6 +55,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tesfamichael12/LeetCode/tree/master/0013-roman-to-integer) |
+| [0367-valid-perfect-square](https://github.com/Tesfamichael12/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Tesfamichael12/LeetCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Tesfamichael12/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Tesfamichael12/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
