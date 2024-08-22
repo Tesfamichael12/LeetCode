@@ -2,7 +2,7 @@ class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         for i in range(len(nums)):
             nums[i] *= nums[i]
-        print(nums)
+
         res = [0] * len(nums)
         l, r = 0, len(nums) - 1
         i = 0
