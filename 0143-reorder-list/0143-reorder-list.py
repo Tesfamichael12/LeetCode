@@ -32,6 +32,3 @@ class Solution:
             second.next = temp1
 
             first, second = temp1, temp2
-
-
-        return head
