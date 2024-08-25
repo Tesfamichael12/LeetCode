@@ -24,6 +24,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tesfamichael12/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tesfamichael12/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamichael12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tesfamichael12/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Tesfamichael12/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Tesfamichael12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/0242-valid-anagram) |
@@ -143,6 +145,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
