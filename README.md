@@ -37,6 +37,7 @@
 | [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
@@ -185,4 +186,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
