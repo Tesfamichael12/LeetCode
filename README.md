@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/Tesfamichael12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Tesfamichael12/LeetCode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
+| [0485-max-consecutive-ones](https://github.com/Tesfamichael12/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
