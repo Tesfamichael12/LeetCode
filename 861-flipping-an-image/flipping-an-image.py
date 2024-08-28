@@ -1,10 +1,11 @@
 class Solution:
     def flipAndInvertImage(self, image: List[List[int]]) -> List[List[int]]:
-        row = [0] * len(image[0])
-        for i in range(len(image)):
-            image[i].reverse()
-            for j in range(len(image)):
-                if image[i][j] == 0: image[i][j] = 1
-                else: image[i][j] = 0
+
+        for row in image:
+           l, r = 0, len(row)-1
+           while l <= r:
+            row[l], row[r] = 1 - row[r], 1 - row[l]
+            l += 1
+            r -= 1
 
         return image
