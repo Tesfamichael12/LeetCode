@@ -9,23 +9,13 @@ class Solution:
                 if board[i][j] == ".": continue
 
                 num = board[i][j]
-                # checking the rows
-                if num in row[i]:
+                if num in row[i] or num in col[j] or num in s[i//3, j//3]:
                     return False
-                else:
-                    row[i].add(num)
-
-                # check the cols
-                if num in col[j]:
-                    return False
-                else:
-                    col[j].add(num)
-
-                # check the squares
-                if num in s[i//3, j//3]:
-                    return False
-                else:
-                    s[i//3, j//3].add(num)
+                
+                row[i].add(num)
+                col[j].add(num)
+                s[i//3, j//3].add(num)
+                
         return True
 
 
