@@ -42,6 +42,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -124,6 +125,7 @@
 | [0283-move-zeroes](https://github.com/Tesfamichael12/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
+| [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -173,11 +175,13 @@
 | [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
@@ -193,6 +197,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
