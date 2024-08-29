@@ -8,7 +8,6 @@ class Solution:
             count[ch[-1]] = ch[:-1]
         
         new = dict(sorted(count.items()))
-        print(new)
 
         n = list(new.values())
         out = " ".join(n)
