@@ -40,6 +40,7 @@
 | [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Tesfamichael12/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Tesfamichael12/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -166,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1217-relative-sort-array) |
@@ -245,6 +247,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
