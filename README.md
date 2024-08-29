@@ -47,6 +47,7 @@
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -241,6 +242,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
