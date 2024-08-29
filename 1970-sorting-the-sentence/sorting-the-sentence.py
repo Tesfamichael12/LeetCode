@@ -10,9 +10,7 @@ class Solution:
         new = dict(sorted(count.items()))
         print(new)
 
-        # for n, ch in new.items():
-        #     out + ch
         n = list(new.values())
         out = " ".join(n)
 
-        return out      
+        return out.strip()      
