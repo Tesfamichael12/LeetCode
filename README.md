@@ -29,6 +29,7 @@
 | [0027-remove-element](https://github.com/Tesfamichael12/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tesfamichael12/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tesfamichael12/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -92,6 +93,7 @@
 | [0002-add-two-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tesfamichael12/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
