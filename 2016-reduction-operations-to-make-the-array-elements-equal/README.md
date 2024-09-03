@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal">2016. Reduction Operations to Make the Array Elements Equal</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, your goal is to make all elements in <code>nums</code> equal. To complete one operation, follow these steps:</p>
+<h2><a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal">Reduction Operations to Make the Array Elements Equal</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>nums</code>, your goal is to make all elements in <code>nums</code> equal. To complete one operation, follow these steps:</p>
 
 <ol>
 	<li>Find the <strong>largest</strong> value in <code>nums</code>. Let its index be <code>i</code> (<strong>0-indexed</strong>) and its value be <code>largest</code>. If there are multiple elements with the largest value, pick the smallest <code>i</code>.</li>
