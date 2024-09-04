@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points">1742. Widest Vertical Area Between Two Points Containing No Points</a></h2><h3>Easy</h3><hr><p>Given <code>n</code> <code>points</code> on a 2D plane where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>, Return<em>&nbsp;the <strong>widest vertical area</strong> between two points such that no points are inside the area.</em></p>
+<h2><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points">Widest Vertical Area Between Two Points Containing No Points</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given <code>n</code> <code>points</code> on a 2D plane where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>, Return<em>&nbsp;the <strong>widest vertical area</strong> between two points such that no points are inside the area.</em></p>
 
 <p>A <strong>vertical area</strong> is an area of fixed-width extending infinitely along the y-axis (i.e., infinite height). The <strong>widest vertical area</strong> is the one with the maximum width.</p>
 
