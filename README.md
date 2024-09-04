@@ -63,6 +63,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tesfamichael12/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -108,6 +109,7 @@
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Trie
 |  |
@@ -187,6 +189,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tesfamichael12/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Tesfamichael12/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -276,6 +279,7 @@
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Geometry
@@ -312,4 +316,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
