@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get">1683. Maximum Number of Coins You Can Get</a></h2><h3>Medium</h3><hr><p>There are <code>3n</code> piles of coins of varying size, you and your friends will take piles of coins as follows:</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get">Maximum Number of Coins You Can Get</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There are <code>3n</code> piles of coins of varying size, you and your friends will take piles of coins as follows:</p>
 
 <ul>
 	<li>In each step, you will choose <strong>any </strong><code>3</code> piles of coins (not necessarily consecutive).</li>
