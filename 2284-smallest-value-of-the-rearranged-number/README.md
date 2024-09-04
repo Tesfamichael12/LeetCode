@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-value-of-the-rearranged-number">2284. Smallest Value of the Rearranged Number</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>num.</code> <strong>Rearrange</strong> the digits of <code>num</code> such that its value is <strong>minimized</strong> and it does not contain <strong>any</strong> leading zeros.</p>
+<h2><a href="https://leetcode.com/problems/smallest-value-of-the-rearranged-number">Smallest Value of the Rearranged Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer <code>num.</code> <strong>Rearrange</strong> the digits of <code>num</code> such that its value is <strong>minimized</strong> and it does not contain <strong>any</strong> leading zeros.</p>
 
 <p>Return <em>the rearranged number with minimal value</em>.</p>
 
