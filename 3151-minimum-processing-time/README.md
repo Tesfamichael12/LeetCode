@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-processing-time">3151. Minimum Processing Time</a></h2><h3>Medium</h3><hr><p>You have a certain number of processors, each having 4 cores. The number of tasks to be executed is four times the number of processors. Each task must be assigned to a unique core, and each core can only be used once.</p>
+<h2><a href="https://leetcode.com/problems/minimum-processing-time">Minimum Processing Time</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You have a certain number of processors, each having 4 cores. The number of tasks to be executed is four times the number of processors. Each task must be assigned to a unique core, and each core can only be used once.</p>
 
 <p>You are given an array <code>processorTime</code> representing the time each processor becomes available and an array <code>tasks</code> representing how long each task takes to complete. Return the&nbsp;<em>minimum</em> time needed to complete all tasks.</p>
 
