@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/pancake-sorting">Pancake Sorting</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an array of integers <code>arr</code>, sort the array by performing a series of <strong>pancake flips</strong>.</p>
+<h2><a href="https://leetcode.com/problems/pancake-sorting">1009. Pancake Sorting</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>arr</code>, sort the array by performing a series of <strong>pancake flips</strong>.</p>
 
 <p>In one pancake flip we do the following steps:</p>
 
