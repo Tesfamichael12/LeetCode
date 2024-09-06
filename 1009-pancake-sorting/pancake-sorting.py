@@ -5,9 +5,12 @@ class Solution:
             i = arr.index(n)
             if n == i + 1: continue # If it's already in the right place pass
 
-            res.extend([i+1, n]) # append the k values 
+            # append the k values
+            # if n is not at the beginning of the arr recored i
+            if i != 0:
+                res.append(i+1)
+            res.append(n) 
 
-            
             # arr = arr[:i:-1] + arr[:i]
             # First flip-> bring the largest number to the front
             arr[:i+1] = reversed(arr[:i+1])
