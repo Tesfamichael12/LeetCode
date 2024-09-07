@@ -3,13 +3,9 @@ class Solution:
         count = 0 
         candidate = nums[0]
         for n in nums:
-            if n == candidate:
-                count += 1
-            else:
-                if count:
-                    count -= 1
-                else:
-                    candidate = n
-                    count += 1
+            if count == 0:
+                candidate = n
+            
+            count += 1 if candidate == n else -1
         
         return candidate
