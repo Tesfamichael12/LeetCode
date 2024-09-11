@@ -31,6 +31,7 @@
 | [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tesfamichael12/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Tesfamichael12/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/0118-pascals-triangle) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tesfamichael12/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Tesfamichael12/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tesfamichael12/LeetCode/tree/master/0169-majority-element) |
