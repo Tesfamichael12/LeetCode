@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-maximum-achievable-number">Find the Maximum Achievable Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given two integers, <code>num</code> and <code>t</code>. A <strong>number is achievable</strong> if it can become equal to <code>num</code> after applying the following operation:</p>
+<h2><a href="https://leetcode.com/problems/find-the-maximum-achievable-number">2812. Find the Maximum Achievable Number</a></h2><h3>Easy</h3><hr><p>Given two integers, <code>num</code> and <code>t</code>. A <strong>number is achievable</strong> if it can become equal to <code>num</code> after applying the following operation:</p>
 
 <ul>
 	<li>Increase or decrease the number by <code>1</code>, and simultaneously increase or decrease <code>num</code> by <code>1</code>.</li>
