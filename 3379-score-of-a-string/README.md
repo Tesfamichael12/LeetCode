@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/score-of-a-string">3379. Score of a String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code>. The <strong>score</strong> of a string is defined as the sum of the absolute difference between the <strong>ASCII</strong> values of adjacent characters.</p>
+<h2><a href="https://leetcode.com/problems/score-of-a-string">Score of a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code>. The <strong>score</strong> of a string is defined as the sum of the absolute difference between the <strong>ASCII</strong> values of adjacent characters.</p>
 
 <p>Return the <strong>score</strong> of<em> </em><code>s</code>.</p>
 
