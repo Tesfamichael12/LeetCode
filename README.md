@@ -21,6 +21,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1970-sorting-the-sentence](https://github.com/Tesfamichael12/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
