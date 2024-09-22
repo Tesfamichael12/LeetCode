@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/convert-the-temperature">Convert the Temperature</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a non-negative floating point number rounded to two decimal places <code>celsius</code>, that denotes the <strong>temperature in Celsius</strong>.</p>
+<h2><a href="https://leetcode.com/problems/convert-the-temperature">2556. Convert the Temperature</a></h2><h3>Easy</h3><hr><p>You are given a non-negative floating point number rounded to two decimal places <code>celsius</code>, that denotes the <strong>temperature in Celsius</strong>.</p>
 
 <p>You should convert Celsius into <strong>Kelvin</strong> and <strong>Fahrenheit</strong> and return it as an array <code>ans = [kelvin, fahrenheit]</code>.</p>
 
