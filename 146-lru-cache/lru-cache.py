@@ -1,20 +1,21 @@
 class LRUCache:
+
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.LRUCache = {}
+        self.lrucache = {}
 
     def get(self, key: int) -> int:
-        if key not in self.LRUCache:
+        if key not in self.lrucache: 
             return -1
-        self.LRUCache[key] = self.LRUCache.pop(key)
-        return self.LRUCache[key]
+        self.lrucache[key] = self.lrucache.pop(key)
+        return self.lrucache[key]
 
     def put(self, key: int, value: int) -> None:
-        if key in self.LRUCache: 
-            self.LRUCache.pop(key)
-        self.LRUCache[key] = value
-        if len(self.LRUCache) > self.capacity:
-            self.LRUCache.pop(next(iter(self.LRUCache)))
+        if key in self.lrucache:
+            self.lrucache.pop(key)
+        self.lrucache[key] = value
+        if len(self.lrucache) > self.capacity:
+            self.lrucache.pop(next(iter(self.lrucache)))
 
 
 # Your LRUCache object will be instantiated and called as such:
