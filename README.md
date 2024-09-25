@@ -22,6 +22,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1970-sorting-the-sentence](https://github.com/Tesfamichael12/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3379-score-of-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
@@ -81,6 +82,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Tesfamichael12/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -111,6 +113,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -244,6 +247,7 @@
 | [0383-ransom-note](https://github.com/Tesfamichael12/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -290,6 +294,7 @@
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
