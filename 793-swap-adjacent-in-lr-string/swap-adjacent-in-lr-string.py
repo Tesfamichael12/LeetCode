@@ -3,8 +3,6 @@ class Solution:
         s = [[start[i], i] for i in range(len(start)) if start[i] != 'X']
         e = [[end[i], i] for i in range(len(end)) if end[i] != 'X']
 
-        print(e)
-
         if len(s) != len(e): return False
 
         for i in range(len(s)):
