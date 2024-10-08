@@ -1,10 +1,31 @@
 class Solution:
     def smallestNumber(self, num: int) -> int:
-        digits = sorted(str(abs(num)), reverse= num < 0) # if -ve reverse sort
-        if digits[0] == '0':
-            for i in range(1, len(digits)):
-                if digits[i] != '0':
-                    digits[0], digits[i] = digits[i], '0'
-                    break
+        digits = []
+        isneg = 1 if num < 0 else 0
+        num = abs(num)
+        while num:
+            digit = num%10
+            digits.append(digit)
+            num //= 10
+        if isneg:
+            digits.sort(reverse=True)
+        else:
+            digits.sort()
+            if len(digits) > 1 and digits[0] == 0:
+                l = r = 0
+                while r < len(digits):
+                    if digits[r] != 0:
+                        digits[l], digits[r] = digits[r], digits[l]
+                        break
+                    r += 1
 
-        return int("".join(digits)) * (1 if num > 0 else -1)
+        print( digits)
+        number = 0
+        for digit in digits:
+            number = number * 10 + digit
+
+        if isneg:
+            number = -number
+            return number
+        else:
+            return number
