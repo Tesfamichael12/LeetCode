@@ -5,6 +5,5 @@ class Solution:
             if n < pivot: before.append(n)
             elif n == pivot: mid.append(n)
             else: after.append(n)
-        print(before, mid, after)
         
         return before + mid + after
