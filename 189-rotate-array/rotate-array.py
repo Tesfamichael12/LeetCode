@@ -4,5 +4,13 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         k = k % len(nums)
-        if k != 0:
-            nums[:k], nums[k:] = nums[-k:], nums[:-k]
+        
+        def reverse(left, right): 
+            while left < right:
+                nums[left], nums[right] = nums[right], nums[left]
+                right -= 1
+                left += 1
+            
+        reverse(0, len(nums)-1)
+        reverse(0, k-1)
+        reverse(k, len(nums)-1)
