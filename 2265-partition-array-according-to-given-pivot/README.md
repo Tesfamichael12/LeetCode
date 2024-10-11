@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/partition-array-according-to-given-pivot">Partition Array According to Given Pivot</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>pivot</code>. Rearrange <code>nums</code> such that the following conditions are satisfied:</p>
+<h2><a href="https://leetcode.com/problems/partition-array-according-to-given-pivot">2265. Partition Array According to Given Pivot</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>pivot</code>. Rearrange <code>nums</code> such that the following conditions are satisfied:</p>
 
 <ul>
 	<li>Every element less than <code>pivot</code> appears <strong>before</strong> every element greater than <code>pivot</code>.</li>
