@@ -1,10 +1,16 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
-        res = 0
-        skill.sort()
-        sum = skill[0] + skill[-1]
-        for i in range(len(skill) // 2):
-            if skill[i] + skill[-1-i] != sum:
+        expected_skill = 2 * sum(skill) // len(skill)
+        skillMap = Counter(skill)
+        chemistry = 0
+        for s in skill:
+            if skillMap[s] == 0 : continue
+
+            complement = abs(expected_skill - s)
+            if skillMap[complement] <= 0:
                 return -1
-            res += skill[i] * skill[-1-i]
-        return res 
+            chemistry += s * abs(expected_skill - s)
+            skillMap[s] -= 1
+            skillMap[complement] -= 1
+        
+        return chemistry
