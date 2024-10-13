@@ -92,6 +92,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfamichael12/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Tesfamichael12/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tesfamichael12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -215,6 +216,7 @@
 | [1009-pancake-sorting](https://github.com/Tesfamichael12/LeetCode/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfamichael12/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tesfamichael12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -253,6 +255,7 @@
 | [1970-sorting-the-sentence](https://github.com/Tesfamichael12/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tesfamichael12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
@@ -351,6 +354,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 ## Greedy
 |  |
@@ -364,6 +368,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Geometry
@@ -375,6 +380,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tesfamichael12/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
 | ------- |
