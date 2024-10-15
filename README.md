@@ -100,6 +100,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -161,6 +162,7 @@
 | [2556-convert-the-temperature](https://github.com/Tesfamichael12/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Trie
 |  |
