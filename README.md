@@ -45,6 +45,7 @@
 | [0054-spiral-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Tesfamichael12/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Tesfamichael12/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/0118-pascals-triangle) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tesfamichael12/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Tesfamichael12/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Tesfamichael12/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -318,6 +320,7 @@
 | [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
