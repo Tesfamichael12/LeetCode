@@ -5,8 +5,9 @@ class Solution:
         l, r = 0, (row * col) - 1
         while l <= r:
             mid = (l+r)//2
-            i = mid // col
-            j = mid % col
+            # i = mid // col
+            # j = mid % col
+            i, j = divmod(mid, col) # one liner for the above
             if matrix[i][j] == target:
                 return True
             elif target >= matrix[i][j]:
