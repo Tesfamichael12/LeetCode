@@ -100,6 +100,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tesfamichael12/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Tesfamichael12/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tesfamichael12/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
