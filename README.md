@@ -54,6 +54,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Tesfamichael12/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0275-h-index-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Tesfamichael12/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
