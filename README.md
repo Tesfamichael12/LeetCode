@@ -171,6 +171,7 @@
 | [0013-roman-to-integer](https://github.com/Tesfamichael12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Tesfamichael12/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Tesfamichael12/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tesfamichael12/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Tesfamichael12/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
