@@ -76,6 +76,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Tesfamichael12/LeetCode/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
@@ -153,6 +154,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Tesfamichael12/LeetCode/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Tesfamichael12/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Tesfamichael12/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -305,6 +307,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tesfamichael12/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0645-set-mismatch](https://github.com/Tesfamichael12/LeetCode/tree/master/0645-set-mismatch) |
 | [1009-pancake-sorting](https://github.com/Tesfamichael12/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -397,6 +400,7 @@
 | [0268-missing-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Tesfamichael12/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
