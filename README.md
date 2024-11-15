@@ -40,6 +40,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tesfamichael12/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Tesfamichael12/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tesfamichael12/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0054-spiral-matrix) |
@@ -138,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tesfamichael12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Tesfamichael12/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Tesfamichael12/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Tesfamichael12/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Tesfamichael12/LeetCode/tree/master/0141-linked-list-cycle) |
