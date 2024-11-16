@@ -7,8 +7,7 @@ class Solution:
         while r < len(nums):
             if nums[l] != 0:
                 l += 1
-            elif nums[l] == 0 and nums[r]:
-                nums[l], nums[r] = nums[r], nums[l] # swap
+            elif not nums[l] and nums[r]:
+                nums[l], nums[r] = nums[r], nums[l]
                 l += 1
-            r += 1
-        
+            r += 1     
