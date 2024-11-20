@@ -26,6 +26,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1970-sorting-the-sentence](https://github.com/Tesfamichael12/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -299,6 +300,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tesfamichael12/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tesfamichael12/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tesfamichael12/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -434,6 +436,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
@@ -441,6 +444,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 ## Greedy
