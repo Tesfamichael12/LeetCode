@@ -1,19 +1,11 @@
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int]) -> int:
         count = 0
-        # check the end colors 
-        if len(colors) > 2:
-            if colors[0] != colors[1] and colors[1] == colors[-1]:
-                count += 1
-            if colors[-2] != colors[-1] and colors[-2] == colors[0]:
-                count += 1
+        # extend the colors array to simulate a circular pattern 
+        circular_colors = colors + colors[:2] # colors.extends(colors[:2])
         
-        l, r = 0, 0
-        k = 3
-        for r in range(len(colors)):
-            if r - l + 1 == 3:
-                l += 1
-            if r < len(colors) - 1 and colors[l] == colors[r+1] and colors[l] != colors[r]:
+        for r in range(len(colors)): 
+            if circular_colors[r] == circular_colors[r+2] and circular_colors[r] != circular_colors[r+1]:
                 count += 1
-
+                
         return count
