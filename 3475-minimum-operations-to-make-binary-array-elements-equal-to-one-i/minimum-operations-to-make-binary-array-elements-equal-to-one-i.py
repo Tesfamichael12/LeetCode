@@ -8,7 +8,6 @@ class Solution:
                 nums[i+2] = 1 - nums[i+2]
                 count += 1
         
-        for num in nums:
-            if num == 0:
-                return -1
-        return count
+        if all(num == 1 for num in nums):
+            return count
+        return -1
