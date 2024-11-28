@@ -1,6 +1,3 @@
-from collections import Counter
-from typing import List
-
 class Solution:
     def fourSumCount(self, nums1: List[int], nums2: List[int], nums3: List[int], nums4: List[int]) -> int:
         # Count sums of pairs in nums1 and nums2
