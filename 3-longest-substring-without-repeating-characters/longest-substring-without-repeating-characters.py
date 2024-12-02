@@ -5,7 +5,7 @@ class Solution:
         hashset = set()
         while R < len(s):
             if s[R] in hashset:
-                maxlen = max(maxlen, R - L)
+                maxlen = max(maxlen, R - L) # maxlen = max(maxlen, len(hashset))
                 while s[L] != s[R]:
                     hashset.remove(s[L])
                     L += 1
