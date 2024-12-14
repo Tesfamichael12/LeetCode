@@ -10,4 +10,5 @@ class Solution:
                 set2.add(n)
         print(set2)
 
-        return set1.issubset(set2)
+        # return set1.issubset(set2) 
+        return set1 <= set2
