@@ -1,18 +1,14 @@
 class Solution:
     def findWinners(self, matches: List[List[int]]) -> List[List[int]]:
-        hashmap = defaultdict(int)
-        for matche in matches:
-            losser = matche[1]
-            hashmap[losser] += 1
+        losser_count = defaultdict(int)
+        players = set()
 
-        lossers = []
-        for losser, count in hashmap.items():
-            if count == 1:
-                lossers.append(losser)
-
-        winners = []
-        for matche in matches:
-            if matche[0] not in hashmap:
-                winners.append(matche[0])
+        for winner, losser in matches:
+            losser_count[losser] += 1
+            players.add(winner)
+            players.add(losser)
         
-        return [sorted(set(winners)), sorted(set(lossers))]
+        winners = [winner for winner in players if winner not in losser_count]
+        lossers = [player for player, count in losser_count.items() if count == 1]
+
+        return [sorted(winners), sorted(lossers)]
