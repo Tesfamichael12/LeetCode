@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses">1354. Find Players With Zero or One Losses</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>matches</code> where <code>matches[i] = [winner<sub>i</sub>, loser<sub>i</sub>]</code> indicates that the player <code>winner<sub>i</sub></code> defeated player <code>loser<sub>i</sub></code> in a match.</p>
+<h2><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses">Find Players With Zero or One Losses</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>matches</code> where <code>matches[i] = [winner<sub>i</sub>, loser<sub>i</sub>]</code> indicates that the player <code>winner<sub>i</sub></code> defeated player <code>loser<sub>i</sub></code> in a match.</p>
 
 <p>Return <em>a list </em><code>answer</code><em> of size </em><code>2</code><em> where:</em></p>
 
