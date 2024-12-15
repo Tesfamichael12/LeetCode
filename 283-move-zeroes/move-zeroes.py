@@ -3,12 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        l, r = 0, 1
-        while r < len(nums):
-            if nums[l] != 0:
-                l += 1
-            elif nums[l] == 0 and nums[r]:
-                nums[l], nums[r] = nums[r], nums[l] # swap
-                l += 1
-            r += 1
+        L = 0
+        for R in range(1, len(nums)):
+            if nums[L] == 0 and nums[R] != 0:
+                nums[L], nums[R] = nums[R], nums[L]
+            if nums[L] != 0:
+                L += 1
         
