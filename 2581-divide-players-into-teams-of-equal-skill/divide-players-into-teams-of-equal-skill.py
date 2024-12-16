@@ -1,12 +1,15 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
         n = len(skill)
-        skill.sort()
-        chemistry = 0
-        sum = skill[0] + skill[n-1]
-        for i in range(n // 2): # we should go until the middle of the array
-            if skill[i] + skill[-1-i] != sum:
-                return -1
-            chemistry += skill[i] * skill[-1-i]
-        return chemistry 
+        expected_skill = 2 * sum(skill) // n
+        skillMap = Counter(skill)
 
+        chemistry = 0
+        for s in skill:
+            compliment = expected_skill - s
+            if compliment not in skillMap or skillMap[compliment] == 0:
+                return -1
+            chemistry += s * compliment
+            skillMap[compliment] -= 1 # we have used it, but we still need s
+        
+        return chemistry // 2
