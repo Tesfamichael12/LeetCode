@@ -1,16 +1,19 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
-        expected_skill = 2 * sum(skill) // len(skill)
-        skillMap = Counter(skill)
-        chemistry = 0
-        for s in skill:
-            if skillMap[s] == 0 : continue
-
-            complement = abs(expected_skill - s)
-            if skillMap[complement] <= 0:
+        n = len(skill)
+        skill.sort()
+        r = n - 1
+        s = skill[0] + skill[r]
+        for l in range(n):
+            if skill[l] + skill[r] != s:
                 return -1
-            chemistry += s * abs(expected_skill - s)
-            skillMap[s] -= 1
-            skillMap[complement] -= 1
+            r -= 1
+
+        chemistry = 0
+        r = n - 1
+        for l in range(n):
+            chem = skill[l] * skill[r]
+            r -= 1
+            chemistry += chem
         
-        return chemistry
+        return chemistry // 2
