@@ -31,6 +31,7 @@
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3194-find-words-containing-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3379-score-of-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
@@ -224,6 +225,7 @@
 | [2556-convert-the-temperature](https://github.com/Tesfamichael12/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Trie
@@ -388,6 +390,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Monotonic Stack
 |  |
 | ------- |
