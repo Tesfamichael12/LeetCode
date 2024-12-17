@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character">Count Substrings Starting and Ending with Given Character</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> and a character <code>c</code>. Return <em>the total number of <span data-keyword="substring-nonempty">substrings</span> of </em><code>s</code><em> that start and end with </em><code>c</code><em>.</em></p>
+<h2><a href="https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character">3337. Count Substrings Starting and Ending with Given Character</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> and a character <code>c</code>. Return <em>the total number of <span data-keyword="substring-nonempty">substrings</span> of </em><code>s</code><em> that start and end with </em><code>c</code><em>.</em></p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
