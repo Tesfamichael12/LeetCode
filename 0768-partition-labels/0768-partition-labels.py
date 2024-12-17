@@ -1,15 +1,20 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        end_idx = [0] * 26
-        for idx, val in enumerate(s):
-            end_idx[ord(val) - ord('a')] = idx
+        hashmap = {}
+        for i in range(len(s)):
+            hashmap[s[i]] = i
 
+        size = 0
+        end = 0
         res = []
-        start = end = 0
-        for i, val in enumerate(s):
-            end = max(end, end_idx[ord(val) - ord('a')])
-            if i == end:
-                res.append(end - start + 1)
-                start = end + 1
+
+        for i in range(len(s)):
+            if hashmap[s[i]] >= i:
+                size += 1
+                end = max(end, hashmap[s[i]])
+
+            if end == i:
+                res.append(size)
+                size = 0
         
         return res
