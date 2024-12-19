@@ -121,6 +121,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Tesfamichael12/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tesfamichael12/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tesfamichael12/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tesfamichael12/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -479,6 +480,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -487,6 +489,7 @@
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
