@@ -72,6 +72,7 @@
 | [0179-largest-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Tesfamichael12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Tesfamichael12/LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -168,6 +169,7 @@
 | [0169-majority-element](https://github.com/Tesfamichael12/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Tesfamichael12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0268-missing-number) |
@@ -474,6 +476,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Tesfamichael12/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tesfamichael12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
