@@ -219,6 +219,7 @@
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Tesfamichael12/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -573,6 +574,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Design
 |  |
@@ -600,4 +602,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
