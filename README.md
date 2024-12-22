@@ -217,6 +217,7 @@
 | [0189-rotate-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Tesfamichael12/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0292-nim-game) |
@@ -428,6 +429,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Tesfamichael12/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
@@ -597,6 +599,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tesfamichael12/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Tesfamichael12/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Monotonic Queue
 |  |
