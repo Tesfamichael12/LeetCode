@@ -1,6 +1,10 @@
-class Solution(object):
-    def isPalindrome(self, x):
-
-        # uisng simple sytax sugar in python
-        x = str(x)
-        return x == x[::-1] #In Python, slicing notation x[start:stop:step] allows us to extract a portion of the sequence x based on the given parameters.
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0: return False
+        num = x
+        rev = 0
+        while num:
+            rev = rev * 10 + num % 10
+            num //= 10
+        
+        return x == rev
