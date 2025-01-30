@@ -3,4 +3,4 @@ class Solution:
         if n % 2 == 0:
             return n
         else:
-            return 2 * n
+            return 2*n
