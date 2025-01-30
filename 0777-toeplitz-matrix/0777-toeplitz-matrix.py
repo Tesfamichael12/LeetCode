@@ -1,13 +1,8 @@
-class Solution(object):
-    def isToeplitzMatrix(self, matrix):
-        """
-        :type matrix: List[List[int]]
-        :rtype: bool
-        """
-        row = len(matrix)
-        col = len(matrix[0])
-        for r in range(1, row):
-            for c in range(1, col):
-                if matrix[r][c] != matrix[r - 1][c - 1]:
+class Solution:
+    def isToeplitzMatrix(self, matrix: List[List[int]]) -> bool:
+        for i in range(1, len(matrix)):
+            for j in range(1, 
+            len(matrix[0])):
+                if matrix[i][j] != matrix[i-1][j-1]:
                     return False
         return True
