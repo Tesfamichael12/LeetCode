@@ -236,6 +236,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2383-add-two-integers](https://github.com/Tesfamichael12/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Tesfamichael12/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -450,6 +451,7 @@
 | [2178-walking-robot-simulation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2228-watering-plants-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfamichael12/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Tesfamichael12/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Counting Sort
