@@ -19,6 +19,7 @@
 | [0344-reverse-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Tesfamichael12/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Tesfamichael12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tesfamichael12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/Tesfamichael12/LeetCode/tree/master/0768-partition-labels) |
@@ -229,6 +230,7 @@
 | [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Tesfamichael12/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Tesfamichael12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0805-escape-the-ghosts](https://github.com/Tesfamichael12/LeetCode/tree/master/0805-escape-the-ghosts) |
@@ -442,6 +444,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Tesfamichael12/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Tesfamichael12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
