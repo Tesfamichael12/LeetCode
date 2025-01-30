@@ -28,6 +28,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/Tesfamichael12/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1970-sorting-the-sentence](https://github.com/Tesfamichael12/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
