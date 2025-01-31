@@ -144,6 +144,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2048-build-array-from-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Tesfamichael12/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -470,6 +471,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Tesfamichael12/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Tesfamichael12/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2178-walking-robot-simulation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2228-watering-plants-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2228-watering-plants-ii) |
