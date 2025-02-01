@@ -170,6 +170,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tesfamichael12/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3651-transformed-array](https://github.com/Tesfamichael12/LeetCode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -488,6 +489,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/Tesfamichael12/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3651-transformed-array](https://github.com/Tesfamichael12/LeetCode/tree/master/3651-transformed-array) |
 ## Counting Sort
 |  |
 | ------- |
