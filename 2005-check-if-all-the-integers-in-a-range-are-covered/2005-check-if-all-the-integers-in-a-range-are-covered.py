@@ -1,13 +1,13 @@
 class Solution:
     def isCovered(self, ranges: List[List[int]], left: int, right: int) -> bool:
-        set1 = set()
-        for n in range(left, right+1):
-            set1.add(n)
+        range_ = set()
+        cover = set()
 
-        set2 = set()
-        for nums in ranges:
-            for n in range(nums[0], nums[1]+1):
-                set2.add(n)
-        print(set2)
-
-        return set1.issubset(set2)
+        for i in range(left, right+1):
+            cover.add(i)
+        
+        for range_i in ranges:
+            for i in range(range_i[0], range_i[1]+1):
+                range_.add(i)
+        
+        return cover <= range_
