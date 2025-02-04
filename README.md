@@ -28,6 +28,7 @@
 | [0782-jewels-and-stones](https://github.com/Tesfamichael12/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0812-rotate-string) |
+| [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Tesfamichael12/LeetCode/tree/master/0858-masking-personal-information) |
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1044-find-common-characters) |
@@ -113,6 +114,7 @@
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0805-escape-the-ghosts](https://github.com/Tesfamichael12/LeetCode/tree/master/0805-escape-the-ghosts) |
+| [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
@@ -218,6 +220,7 @@
 | [0768-partition-labels](https://github.com/Tesfamichael12/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Tesfamichael12/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/Tesfamichael12/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Tesfamichael12/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -454,6 +457,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tesfamichael12/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Tesfamichael12/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Tesfamichael12/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
