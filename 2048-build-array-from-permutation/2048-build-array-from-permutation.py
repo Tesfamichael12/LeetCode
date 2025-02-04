@@ -1,6 +1,7 @@
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:
-        ans = []
-        for i in range(len(nums)):
-            ans.append(nums[nums[i]])
+        ans = [0] * len(nums)
+        for i, n in enumerate(nums):
+            ans[i] = nums[n]
+        
         return ans
