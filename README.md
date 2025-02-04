@@ -34,6 +34,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tesfamichael12/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Tesfamichael12/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -227,6 +228,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Tesfamichael12/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -454,6 +456,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Tesfamichael12/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
