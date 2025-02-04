@@ -39,6 +39,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tesfamichael12/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Tesfamichael12/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/Tesfamichael12/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Tesfamichael12/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -153,6 +154,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Tesfamichael12/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tesfamichael12/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -577,6 +579,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
