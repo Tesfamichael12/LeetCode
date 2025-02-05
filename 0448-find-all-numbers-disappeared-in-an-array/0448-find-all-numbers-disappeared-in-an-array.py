@@ -10,7 +10,7 @@ class Solution:
                 else:
                     i += 1 
         cycleSortWithDuplicates()
-        print(*nums)
+        # print(*nums)
         res = []
         for i in range(n):
             if nums[i] != i + 1:
