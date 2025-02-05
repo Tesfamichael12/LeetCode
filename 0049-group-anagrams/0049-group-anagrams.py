@@ -6,4 +6,4 @@ class Solution:
             key = tuple(sorted(s))
             anagram_dict[key].append(s)
 
-        return anagram_dict.values()
+        return list(anagram_dict.values())
