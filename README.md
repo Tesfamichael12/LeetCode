@@ -137,6 +137,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Tesfamichael12/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/Tesfamichael12/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -517,6 +518,7 @@
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Tesfamichael12/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Tesfamichael12/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/Tesfamichael12/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1310-watering-plants](https://github.com/Tesfamichael12/LeetCode/tree/master/1310-watering-plants) |
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
