@@ -1,15 +1,9 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        i = 0 
-        while i < len(nums):
-            correct_pos = nums[i] - 1
-            if nums[i] != nums[correct_pos]:
-                nums[i], nums[correct_pos] = nums[correct_pos], nums[i]
-            else:
-                i += 1
-        
+        count = Counter(nums)
         res = []
-        for i in range(len(nums)):
-            if nums[i] != i + 1:
-                res.append(nums[i])
+        for key, val in count.items():
+            if val == 2:
+                res.append(key)
+        
         return res
