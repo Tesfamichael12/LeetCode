@@ -1,13 +1,13 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
-        hashset = set()
-        for a in allowed: hashset.add(a)
-        print(hashset)
-        count = len(words)
-        for s in words:
-            for c in s:
-                if c not in hashset:
-                    count -= 1
-                    break
-            
+        count = 0
+        allow = Counter(allowed)
+        for word in words:
+            flag = True
+            for c in word:
+                if c not in allow:
+                    flag = False
+            if flag:
+                count += 1
+        
         return count
