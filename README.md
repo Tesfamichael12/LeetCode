@@ -182,6 +182,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2228-watering-plants-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfamichael12/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -419,6 +420,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tesfamichael12/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tesfamichael12/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -463,6 +465,7 @@
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Tesfamichael12/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tesfamichael12/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
