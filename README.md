@@ -182,6 +182,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tesfamichael12/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2228-watering-plants-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
@@ -465,6 +466,7 @@
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Tesfamichael12/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tesfamichael12/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Tesfamichael12/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -562,6 +564,7 @@
 | ------- |
 | [0274-h-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tesfamichael12/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Memoization
 |  |
 | ------- |
@@ -645,6 +648,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Tesfamichael12/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tesfamichael12/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
