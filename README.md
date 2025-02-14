@@ -40,6 +40,7 @@
 | [1044-find-common-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -420,6 +421,7 @@
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Tesfamichael12/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tesfamichael12/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tesfamichael12/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -614,6 +616,7 @@
 | [0940-fruit-into-baskets](https://github.com/Tesfamichael12/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -626,6 +629,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
