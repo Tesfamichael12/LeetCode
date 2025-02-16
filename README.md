@@ -58,6 +58,7 @@
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3194-find-words-containing-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3195-separate-black-and-white-balls](https://github.com/Tesfamichael12/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3379-score-of-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
@@ -396,6 +397,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tesfamichael12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tesfamichael12/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3195-separate-black-and-white-balls](https://github.com/Tesfamichael12/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -662,6 +664,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3195-separate-black-and-white-balls](https://github.com/Tesfamichael12/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Geometry
 |  |
 | ------- |
