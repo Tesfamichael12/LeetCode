@@ -166,6 +166,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tesfamichael12/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Tesfamichael12/LeetCode/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tesfamichael12/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -321,6 +322,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Tesfamichael12/LeetCode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -656,6 +658,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Tesfamichael12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -757,6 +760,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Tesfamichael12/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamichael12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2178-walking-robot-simulation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 ## Bucket Sort
 |  |
@@ -797,4 +801,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Tesfamichael12/LeetCode/tree/master/1028-interval-list-intersections) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
