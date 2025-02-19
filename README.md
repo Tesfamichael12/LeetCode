@@ -175,6 +175,7 @@
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tesfamichael12/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tesfamichael12/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -478,6 +479,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Tesfamichael12/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tesfamichael12/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -655,6 +657,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -678,6 +681,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Tesfamichael12/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Tesfamichael12/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
