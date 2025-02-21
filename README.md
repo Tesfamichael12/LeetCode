@@ -136,6 +136,7 @@
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0805-escape-the-ghosts](https://github.com/Tesfamichael12/LeetCode/tree/master/0805-escape-the-ghosts) |
 | [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0842-card-flipping-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0842-card-flipping-game) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
@@ -267,6 +268,7 @@
 | [0782-jewels-and-stones](https://github.com/Tesfamichael12/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0842-card-flipping-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0842-card-flipping-game) |
 | [0906-walking-robot-simulation](https://github.com/Tesfamichael12/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Tesfamichael12/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
