@@ -195,6 +195,7 @@
 | [2048-build-array-from-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Tesfamichael12/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2102-find-the-middle-index-in-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -685,6 +686,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2102-find-the-middle-index-in-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
