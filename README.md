@@ -55,6 +55,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Tesfamichael12/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Tesfamichael12/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tesfamichael12/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -529,6 +530,7 @@
 | [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/1020-longest-turbulent-subarray) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Tesfamichael12/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Interactive
 |  |
 | ------- |
@@ -690,6 +692,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Tesfamichael12/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
