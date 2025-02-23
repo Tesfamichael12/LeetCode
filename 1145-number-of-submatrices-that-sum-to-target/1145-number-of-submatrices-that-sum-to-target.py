@@ -12,7 +12,7 @@ class Solution:
                 mat[i][j] += mat[i-1][j] + mat[i][j-1] - mat[i-1][j-1]
         
         # count the sub-matrices which sum to target
-         # Iterate through all possible pairs of columns
+        # Iterate through all possible pairs of columns
         cnt = 0
         for col1 in range(cols):
             for col2 in range(col1, cols):
