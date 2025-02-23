@@ -10,8 +10,6 @@ class Solution:
         for i in range(rows):
             for j in range(cols):
                 mat[i][j] += mat[i-1][j] + mat[i][j-1] - mat[i-1][j-1]
-        for row in mat: 
-            print(row)
         
         # count the sub-matrices which sum to target
          # Iterate through all possible pairs of columns
