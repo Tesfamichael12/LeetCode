@@ -185,6 +185,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tesfamichael12/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tesfamichael12/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/Tesfamichael12/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Tesfamichael12/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -337,6 +338,7 @@
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Tesfamichael12/LeetCode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tesfamichael12/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -690,6 +692,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Tesfamichael12/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
