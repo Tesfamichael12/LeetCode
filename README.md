@@ -232,6 +232,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tesfamichael12/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Tesfamichael12/LeetCode/tree/master/3651-transformed-array) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
@@ -687,6 +688,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -721,6 +723,7 @@
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 | [3311-ant-on-the-boundary](https://github.com/Tesfamichael12/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
