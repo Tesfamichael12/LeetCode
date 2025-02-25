@@ -5,9 +5,7 @@ class Solution:
         nums.reverse()
         sx = list(accumulate(nums))
         sx.reverse()
-
-        print(px)
-        print(sx)
+        
         ans = []
         for i in range(1, len(px)-1):
             ans.append(abs(px[i] - sx[i]))
