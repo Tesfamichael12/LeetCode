@@ -7,9 +7,5 @@ class Solution:
         
         px = list(accumulate(px))
         mx = max(px)
-
-        for i in range(len(px)):
-            if px[i] == mx:
-                return i
         
-        return -1
+        return px.index(mx)
