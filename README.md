@@ -232,6 +232,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tesfamichael12/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3651-transformed-array](https://github.com/Tesfamichael12/LeetCode/tree/master/3651-transformed-array) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -715,6 +716,7 @@
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
 | ------- |
