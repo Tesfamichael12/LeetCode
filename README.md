@@ -196,6 +196,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/Tesfamichael12/LeetCode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tesfamichael12/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -562,6 +563,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1983-maximum-population-year](https://github.com/Tesfamichael12/LeetCode/tree/master/1983-maximum-population-year) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Tesfamichael12/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tesfamichael12/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tesfamichael12/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -704,6 +706,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Tesfamichael12/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tesfamichael12/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tesfamichael12/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/Tesfamichael12/LeetCode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
