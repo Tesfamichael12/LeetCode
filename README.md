@@ -381,6 +381,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Tesfamichael12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -397,6 +398,7 @@
 | [0234-palindrome-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Tesfamichael12/LeetCode/tree/master/1028-interval-list-intersections) |
 | [2228-watering-plants-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2228-watering-plants-ii) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfamichael12/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2551-apply-operations-to-an-array) |
