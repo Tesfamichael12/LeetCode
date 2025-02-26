@@ -4,21 +4,60 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode], carry: int = 0) -> Optional[ListNode]:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        # reverse both the linked lists
+        # def reverseLL(head):
+        #     cur = head
+        #     prev = None
+        #     while cur:
+        #         nxt = cur.next
+        #         cur.next = prev
+        #         prev = cur
+        #         cur = nxt
+            
+        #     return prev
+        
+        # l1 = reverseLL(l1)
+        # l2 = reverseLL(l2)
 
-        if not l1 and not l2 and carry == 0: return None  
+        carry = 0
+        val = 0
+        res = ListNode(None)
+        ans = res
+        while l1 and l2:
+            val = l1.val + l2.val + carry
+            q, carry = val % 10, val // 10
 
-        vl1 = l1.val if l1 else 0
-        vl2 = l2.val if l2 else 0
+            newnode = ListNode(q)
+            res.next = newnode
+            res = res.next
 
-        total = vl1 + vl2 + carry
-        carry = total // 10
-        new_val = total % 10
+            l1 = l1.next
+            l2 = l2.next
+        
+        # adding the remaining digits
+        while l1:
+            val = l1.val + carry
+            q, carry = val % 10, val // 10
 
-        curr_node = ListNode(new_val)
+            newnode = ListNode(q)
+            res.next = newnode
+            res = res.next
 
-        new_l1 = l1.next if l1 else None
-        new_l2 = l2.next if l2 else None
-        curr_node.next = self.addTwoNumbers(new_l1, new_l2, carry)
+            l1 = l1.next
+        
+        while l2:
+            val = l2.val + carry
+            q, carry = val % 10, val // 10
 
-        return curr_node
+            newnode = ListNode(q)
+            res.next = newnode
+            res = res.next
+
+            l2 = l2.next
+        
+        if carry > 0:
+            newnode = ListNode(carry)
+            res.next = newnode
+        
+        return ans.next
