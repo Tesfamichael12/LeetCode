@@ -210,6 +210,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Tesfamichael12/LeetCode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tesfamichael12/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2228-watering-plants-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2228-watering-plants-ii) |
@@ -609,6 +610,7 @@
 | [1791-richest-customer-wealth](https://github.com/Tesfamichael12/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tesfamichael12/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Tesfamichael12/LeetCode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Tesfamichael12/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
@@ -733,6 +735,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2145-grid-game](https://github.com/Tesfamichael12/LeetCode/tree/master/2145-grid-game) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Tesfamichael12/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Tesfamichael12/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
