@@ -41,6 +41,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -584,6 +585,7 @@
 | [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Tesfamichael12/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -767,6 +769,7 @@
 | [1009-pancake-sorting](https://github.com/Tesfamichael12/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Tesfamichael12/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tesfamichael12/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
