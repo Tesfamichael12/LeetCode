@@ -866,6 +866,7 @@
 | [0146-lru-cache](https://github.com/Tesfamichael12/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamichael12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
 | [2178-walking-robot-simulation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
@@ -883,6 +884,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
@@ -912,6 +914,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
