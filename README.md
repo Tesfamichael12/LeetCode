@@ -324,6 +324,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tesfamichael12/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tesfamichael12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 | [3034-points-that-intersect-with-cars](https://github.com/Tesfamichael12/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -610,6 +611,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tesfamichael12/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tesfamichael12/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Monotonic Stack
 |  |
@@ -873,6 +875,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
 | [2178-walking-robot-simulation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -888,6 +891,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
@@ -920,4 +924,5 @@
 | [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
