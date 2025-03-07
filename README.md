@@ -398,6 +398,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Tesfamichael12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tesfamichael12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamichael12/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -874,6 +875,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Tesfamichael12/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamichael12/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamichael12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0838-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -895,6 +897,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamichael12/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
