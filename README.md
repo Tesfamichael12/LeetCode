@@ -125,6 +125,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Tesfamichael12/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Tesfamichael12/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -402,6 +403,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tesfamichael12/LeetCode/tree/master/0739-daily-temperatures) |
@@ -509,6 +511,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Tesfamichael12/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tesfamichael12/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
@@ -623,6 +626,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Tesfamichael12/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Tesfamichael12/LeetCode/tree/master/0937-online-stock-span) |
@@ -941,4 +945,8 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
