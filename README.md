@@ -37,6 +37,7 @@
 | [0812-rotate-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Tesfamichael12/LeetCode/tree/master/0858-masking-personal-information) |
+| [0886-score-of-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -414,6 +415,7 @@
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tesfamichael12/LeetCode/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/Tesfamichael12/LeetCode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
