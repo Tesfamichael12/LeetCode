@@ -371,6 +371,7 @@
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/Tesfamichael12/LeetCode/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -813,6 +814,7 @@
 | [0917-boats-to-save-people](https://github.com/Tesfamichael12/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Tesfamichael12/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/Tesfamichael12/LeetCode/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/Tesfamichael12/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Tesfamichael12/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
