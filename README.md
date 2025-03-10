@@ -250,6 +250,7 @@
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3311-ant-on-the-boundary](https://github.com/Tesfamichael12/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Tesfamichael12/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -592,6 +593,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tesfamichael12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tesfamichael12/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Tesfamichael12/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -831,6 +833,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/Tesfamichael12/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3151-minimum-processing-time](https://github.com/Tesfamichael12/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/Tesfamichael12/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Tesfamichael12/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Geometry
 |  |
 | ------- |
