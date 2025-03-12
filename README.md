@@ -165,6 +165,7 @@
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0978-valid-mountain-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tesfamichael12/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/Tesfamichael12/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tesfamichael12/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -568,6 +569,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Tesfamichael12/LeetCode/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Tesfamichael12/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tesfamichael12/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/Tesfamichael12/LeetCode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/Tesfamichael12/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -680,6 +682,7 @@
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Tesfamichael12/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tesfamichael12/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Tesfamichael12/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/Tesfamichael12/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1184-car-pooling](https://github.com/Tesfamichael12/LeetCode/tree/master/1184-car-pooling) |
@@ -935,6 +938,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Tesfamichael12/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
