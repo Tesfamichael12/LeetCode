@@ -155,6 +155,7 @@
 | [0805-escape-the-ghosts](https://github.com/Tesfamichael12/LeetCode/tree/master/0805-escape-the-ghosts) |
 | [0829-subdomain-visit-count](https://github.com/Tesfamichael12/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0842-card-flipping-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0842-card-flipping-game) |
+| [0859-design-circular-deque](https://github.com/Tesfamichael12/LeetCode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
@@ -447,6 +448,7 @@
 | [0328-odd-even-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0838-design-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/Tesfamichael12/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -915,6 +917,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamichael12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/Tesfamichael12/LeetCode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Tesfamichael12/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -937,6 +940,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Tesfamichael12/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Tesfamichael12/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/Tesfamichael12/LeetCode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Tesfamichael12/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Tesfamichael12/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamichael12/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
