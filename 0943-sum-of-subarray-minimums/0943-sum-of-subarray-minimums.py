@@ -1,5 +1,6 @@
 class Solution:
     def sumSubarrayMins(self, arr: List[int]) -> int:
+        # 1 2 3 5 1 2   stack = [1, 2, 3, 5]  <= 1 
         MOD = pow(10, 9) + 7
 
         stack = []
