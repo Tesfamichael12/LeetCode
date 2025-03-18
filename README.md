@@ -433,6 +433,7 @@
 | [1720-crawler-log-folder](https://github.com/Tesfamichael12/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -473,6 +475,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/Tesfamichael12/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/2050-count-good-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -660,6 +663,7 @@
 | [0739-daily-temperatures](https://github.com/Tesfamichael12/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Tesfamichael12/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Tesfamichael12/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
