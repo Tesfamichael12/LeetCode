@@ -1000,4 +1000,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Tesfamichael12/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
