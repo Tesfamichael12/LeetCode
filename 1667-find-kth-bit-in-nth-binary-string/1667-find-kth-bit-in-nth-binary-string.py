@@ -5,7 +5,7 @@ class Solution:
             if n == 2:
                 return '011'[k]
             
-            t = pow(2, n) - 1
+            t = pow(2, n) - 1 # total length of nth string
             mid = t // 2
             if k > mid:
                 return 1 - int(helper(n, t - k - 1))
@@ -14,5 +14,5 @@ class Solution:
             else: 
                 return 1
         
-        return str(helper(n, k-1))
+        return str(helper(n, k-1)) # start from k - 1 to make it 0 indexed
 
