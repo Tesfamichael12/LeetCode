@@ -23,6 +23,7 @@
 | [0383-ransom-note](https://github.com/Tesfamichael12/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Tesfamichael12/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Tesfamichael12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tesfamichael12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -420,6 +421,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Tesfamichael12/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tesfamichael12/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -472,6 +474,7 @@
 | [0234-palindrome-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Tesfamichael12/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/2050-count-good-numbers) |
