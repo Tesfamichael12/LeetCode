@@ -132,6 +132,7 @@
 | [0454-4sum-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/Tesfamichael12/LeetCode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Tesfamichael12/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Tesfamichael12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Tesfamichael12/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Tesfamichael12/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Tesfamichael12/LeetCode/tree/master/0500-keyboard-row) |
@@ -372,6 +373,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamichael12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Tesfamichael12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Tesfamichael12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -476,6 +478,7 @@
 | [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Tesfamichael12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Tesfamichael12/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -625,6 +628,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamichael12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0376-wiggle-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Tesfamichael12/LeetCode/tree/master/0486-predict-the-winner) |
 | [0943-sum-of-subarray-minimums](https://github.com/Tesfamichael12/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/1020-longest-turbulent-subarray) |
@@ -929,6 +933,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Tesfamichael12/LeetCode/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Design
 |  |
