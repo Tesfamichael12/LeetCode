@@ -18,6 +18,7 @@
 | [0125-valid-palindrome](https://github.com/Tesfamichael12/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Tesfamichael12/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Tesfamichael12/LeetCode/tree/master/0383-ransom-note) |
@@ -365,6 +366,7 @@
 | [0189-rotate-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Tesfamichael12/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0268-missing-number) |
@@ -477,6 +479,7 @@
 | [0206-reverse-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Tesfamichael12/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Tesfamichael12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tesfamichael12/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0394-decode-string) |
@@ -628,6 +631,7 @@
 | [0055-jump-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Tesfamichael12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamichael12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0376-wiggle-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Tesfamichael12/LeetCode/tree/master/0486-predict-the-winner) |
@@ -740,6 +744,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
