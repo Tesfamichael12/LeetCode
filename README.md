@@ -48,6 +48,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Tesfamichael12/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -194,6 +195,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Tesfamichael12/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Tesfamichael12/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tesfamichael12/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Tesfamichael12/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -638,6 +640,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Tesfamichael12/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/1020-longest-turbulent-subarray) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Tesfamichael12/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Interactive
@@ -759,6 +762,7 @@
 | [0645-set-mismatch](https://github.com/Tesfamichael12/LeetCode/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Tesfamichael12/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1025,4 +1029,9 @@
 | [0052-n-queens-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Tesfamichael12/LeetCode/tree/master/0077-combinations) |
 | [1160-letter-tile-possibilities](https://github.com/Tesfamichael12/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
