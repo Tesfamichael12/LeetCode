@@ -11,11 +11,6 @@ class Solution:
                 R -= 1
                 continue
 
-            # we can't do this no more since their ara douplicats [3, 1, 3] min=3
-            # if nums[L] <= nums[R]:
-            #     min_val = min(min_val, nums[L])
-            #     break
-
             # left half is sorted 
             if nums[L] <= nums[mid]:
                 min_val = min(min_val, nums[L])
