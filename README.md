@@ -255,6 +255,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tesfamichael12/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Tesfamichael12/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2714-left-and-right-sum-differences](https://github.com/Tesfamichael12/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/Tesfamichael12/LeetCode/tree/master/2721-sum-of-distances) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tesfamichael12/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -569,6 +570,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Tesfamichael12/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tesfamichael12/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
