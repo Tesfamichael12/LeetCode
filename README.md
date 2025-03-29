@@ -271,6 +271,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tesfamichael12/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tesfamichael12/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3643-zero-array-transformation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Tesfamichael12/LeetCode/tree/master/3651-transformed-array) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -576,6 +577,7 @@
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Tesfamichael12/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Tesfamichael12/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tesfamichael12/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3643-zero-array-transformation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -852,6 +854,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/Tesfamichael12/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3311-ant-on-the-boundary](https://github.com/Tesfamichael12/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
