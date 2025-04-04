@@ -1,6 +1,6 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        def quick_select(arr, k):
+        def KthLargest(arr, k):
             """QuickSelect algorithm using Median of Medians for pivot selection."""
             chunk = 5  # A chunk size of 5 is optimal for median selection
 
@@ -14,9 +14,9 @@ class Solution:
             if right_len < k <= right_len + mid_len:
                 return mid[0]  # Found k-th largest element
             elif right_len >= k:
-                return quick_select(right, k)
+                return KthLargest(right, k)
             else:
-                return quick_select(left, k - (right_len + mid_len))  # Adjust k
+                return KthLargest(left, k - (right_len + mid_len))  # Adjust k
 
         def partition(arr, chunk):
             """Partitions array into three parts: < pivot, == pivot, > pivot"""
@@ -44,6 +44,6 @@ class Solution:
             if len(medians) <= chunk:
                 return sorted(medians)[len(medians) // 2]
             else:
-                return quick_select(medians, len(medians) // 2 + 1)  # Select the median from medians
+                return KthLargest(medians, len(medians) // 2 + 1)  # Select the median from medians
 
-        return quick_select(nums, k)
+        return KthLargest(nums, k)
