@@ -25,6 +25,7 @@
 | [0389-find-the-difference](https://github.com/Tesfamichael12/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Tesfamichael12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tesfamichael12/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -132,6 +133,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamichael12/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tesfamichael12/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -803,6 +805,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 ## Sliding Window
 |  |
 | ------- |
@@ -951,6 +954,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Tesfamichael12/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tesfamichael12/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Binary Tree
@@ -971,6 +975,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Tesfamichael12/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Game Theory
 |  |
@@ -1065,4 +1070,12 @@
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
