@@ -806,6 +806,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tesfamichael12/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
+| [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Sliding Window
 |  |
 | ------- |
@@ -956,6 +957,7 @@
 | [0226-invert-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Binary Tree
 |  |
@@ -977,6 +979,7 @@
 | [0226-invert-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Game Theory
 |  |
 | ------- |
@@ -1074,6 +1077,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
+| [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Shortest Path
 |  |
 | ------- |
