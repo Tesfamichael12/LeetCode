@@ -189,6 +189,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Tesfamichael12/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/Tesfamichael12/LeetCode/tree/master/1028-interval-list-intersections) |
+| [1036-rotting-oranges](https://github.com/Tesfamichael12/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Tesfamichael12/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Tesfamichael12/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1044-find-common-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1044-find-common-characters) |
@@ -723,6 +724,7 @@
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Tesfamichael12/LeetCode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Tesfamichael12/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Tesfamichael12/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1791-richest-customer-wealth](https://github.com/Tesfamichael12/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -989,6 +991,7 @@
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/Tesfamichael12/LeetCode/tree/master/1036-rotting-oranges) |
 ## Game Theory
 |  |
 | ------- |
