@@ -12,7 +12,7 @@ class Solution:
         ans = [-1] * n
         while qu:
             cur_node, cur_color, dist = qu.popleft()
-            print(qu)
+
             if ans[cur_node] == -1 : ans[cur_node] = dist
 
             next_color = 1 - cur_color
