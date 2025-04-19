@@ -995,6 +995,7 @@
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Tesfamichael12/LeetCode/tree/master/1036-rotting-oranges) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Game Theory
 |  |
 | ------- |
@@ -1096,6 +1097,7 @@
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Tesfamichael12/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Shortest Path
 |  |
 | ------- |
