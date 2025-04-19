@@ -6,31 +6,23 @@ class Solution:
         for u, v in blueEdges:
             graph[u][1].append(v)
         
-        def bfs(node, end, start_color):
-            qu = deque()
-            qu.append((node, start_color, 0)) # node, start_color and steps
-            visited = set((node, start_color))
+        qu = deque([(0, 0), (0, 1)])
+        visited = set([(0, 0), (0, 1)])
 
-            while qu:
-                cur_node, next_color, steps = qu.popleft()
-                if cur_node == end: return steps
+        ans = [-1] * n
+        dist = 0
+        while qu:
+            for _ in range(len(qu)):
+                cur_node, cur_color = qu.popleft()
 
-                next_color = 1 - next_color
+                if ans[cur_node] == -1 : ans[cur_node] = dist
+
+                next_color = 1 - cur_color
                 for adj in graph[cur_node][next_color]:
                     if (adj, next_color) not in visited:
                         visited.add((adj, next_color))
-                        qu.append((adj, next_color, steps + 1))
-                    
-            return -1
+                        qu.append((adj, next_color))
 
-        ans = [0]  * n
-        for i in range(n):
-            red = bfs(0, i, 0)
-            blue = bfs(0, i, 1)
-
-            if red > -1 and blue > -1:
-                ans[i] = min(red, blue)
-            else:
-                ans[i] = max(red, blue)
-
-        return ans 
+            dist += 1
+        
+        return ans
