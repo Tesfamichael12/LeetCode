@@ -34,6 +34,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tesfamichael12/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Tesfamichael12/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0753-open-the-lock](https://github.com/Tesfamichael12/LeetCode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Tesfamichael12/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Tesfamichael12/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tesfamichael12/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -163,6 +164,7 @@
 | [0682-baseball-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Tesfamichael12/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Tesfamichael12/LeetCode/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/Tesfamichael12/LeetCode/tree/master/0753-open-the-lock) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Tesfamichael12/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -326,6 +328,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tesfamichael12/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Tesfamichael12/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/Tesfamichael12/LeetCode/tree/master/0645-set-mismatch) |
+| [0753-open-the-lock](https://github.com/Tesfamichael12/LeetCode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Tesfamichael12/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Tesfamichael12/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Tesfamichael12/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -992,6 +995,7 @@
 | [0226-invert-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0753-open-the-lock](https://github.com/Tesfamichael12/LeetCode/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Tesfamichael12/LeetCode/tree/master/1036-rotting-oranges) |
