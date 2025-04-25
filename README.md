@@ -173,6 +173,7 @@
 | [0842-card-flipping-game](https://github.com/Tesfamichael12/LeetCode/tree/master/0842-card-flipping-game) |
 | [0859-design-circular-deque](https://github.com/Tesfamichael12/LeetCode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
+| [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Tesfamichael12/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Tesfamichael12/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -972,6 +973,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Binary Tree
 |  |
@@ -1100,6 +1102,7 @@
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/Tesfamichael12/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Shortest Path
@@ -1110,4 +1113,5 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tesfamichael12/LeetCode/tree/master/0207-course-schedule) |
+| [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
