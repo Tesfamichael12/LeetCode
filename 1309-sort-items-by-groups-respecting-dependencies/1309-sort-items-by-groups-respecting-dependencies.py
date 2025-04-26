@@ -6,6 +6,7 @@ class Solution:
                 group[i] = m
                 m += 1
 
+        # sort both the items and groups using top sort
         items_graph = defaultdict(list)
         items_indegree = defaultdict(int)
 
