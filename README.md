@@ -975,6 +975,7 @@
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
+| [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Binary Tree
 |  |
@@ -1004,6 +1005,7 @@
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Tesfamichael12/LeetCode/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Game Theory
 |  |
 | ------- |
@@ -1108,6 +1110,7 @@
 | [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/Tesfamichael12/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1118,4 +1121,5 @@
 | [0207-course-schedule](https://github.com/Tesfamichael12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
+| [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
