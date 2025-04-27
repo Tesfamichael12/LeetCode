@@ -69,6 +69,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Tesfamichael12/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Tesfamichael12/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tesfamichael12/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Tesfamichael12/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -256,6 +257,7 @@
 | [2145-grid-game](https://github.com/Tesfamichael12/LeetCode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tesfamichael12/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tesfamichael12/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfamichael12/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -361,6 +363,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tesfamichael12/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Tesfamichael12/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Tesfamichael12/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tesfamichael12/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2502-sort-the-people](https://github.com/Tesfamichael12/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tesfamichael12/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tesfamichael12/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -1114,6 +1117,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Tesfamichael12/LeetCode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tesfamichael12/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1126,4 +1130,5 @@
 | [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Tesfamichael12/LeetCode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tesfamichael12/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
