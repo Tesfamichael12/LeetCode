@@ -973,6 +973,7 @@
 | [0207-course-schedule](https://github.com/Tesfamichael12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -1002,6 +1003,7 @@
 | [0207-course-schedule](https://github.com/Tesfamichael12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tesfamichael12/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0753-open-the-lock](https://github.com/Tesfamichael12/LeetCode/tree/master/0753-open-the-lock) |
@@ -1109,6 +1111,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Tesfamichael12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -1127,6 +1130,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Tesfamichael12/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Tesfamichael12/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Tesfamichael12/LeetCode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
