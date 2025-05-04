@@ -1,26 +1,28 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
-        for course, prereq in prerequisites:
-            graph[course].append(prereq) # directed graph ( c -> p)
+        for u, v in prerequisites:
+            graph[v].append(u)
 
-        visited = [-1] * numCourses # -1 = unvisited, 0 = visited not in path, 1 visited & in path
-        def dfs(node):
-            visited[node] = 1
+        indegree = defaultdict(int)
+        for val in graph.values():
+            for node in val:
+                indegree[node] += 1
 
-            for adj in graph[node]:
-                if visited[adj] == -1: # node is not visited
-                    if dfs(adj):
-                        return True
-                elif visited[adj] == 1: # if adj is visited and is in the current path
-                    return True
-            
-            visited[node] = 0 # remove the node from the path
-            return False
-
+        qu = deque()
         for i in range(numCourses):
-            if visited[i] == -1: # node is not visited
-                if dfs(i):
-                    return False
+            if i not in indegree:
+                qu.append(i)
+        ans = []
+        while qu:
+            for _ in range(len(qu)):
+                cur = qu.popleft()
+                ans.append(cur)
+                for child in graph[cur]:
+                    indegree[child] -= 1
+                    if indegree[child] == 0:
+                        qu.append(child)
+
+        if len(ans) != numCourses:
+            return False
         return True
-        
