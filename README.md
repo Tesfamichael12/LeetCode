@@ -344,6 +344,7 @@
 | [0940-fruit-into-baskets](https://github.com/Tesfamichael12/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/Tesfamichael12/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tesfamichael12/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tesfamichael12/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Tesfamichael12/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1044-find-common-characters) |
@@ -827,6 +828,7 @@
 | [0399-evaluate-division](https://github.com/Tesfamichael12/LeetCode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Tesfamichael12/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tesfamichael12/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Sliding Window
 |  |
 | ------- |
@@ -985,6 +987,7 @@
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tesfamichael12/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Tesfamichael12/LeetCode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1558-course-schedule-iv](https://github.com/Tesfamichael12/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -1123,6 +1126,7 @@
 | [0801-is-graph-bipartite](https://github.com/Tesfamichael12/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tesfamichael12/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Tesfamichael12/LeetCode/tree/master/0881-loud-and-rich) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tesfamichael12/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Tesfamichael12/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Tesfamichael12/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Tesfamichael12/LeetCode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
