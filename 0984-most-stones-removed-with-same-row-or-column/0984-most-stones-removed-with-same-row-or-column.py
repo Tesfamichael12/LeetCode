@@ -27,7 +27,7 @@ class Solution:
 
                 return True
             else:
-                return False # if they are already in the same component
+                return False # if they are already in the same component no edge needed
         
         edges = 0
         for val in rows.values():
