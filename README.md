@@ -13,6 +13,7 @@
 | [0020-valid-parentheses](https://github.com/Tesfamichael12/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tesfamichael12/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tesfamichael12/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Tesfamichael12/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Tesfamichael12/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Tesfamichael12/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Tesfamichael12/LeetCode/tree/master/0125-valid-palindrome) |
@@ -389,6 +390,7 @@
 | [0048-rotate-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tesfamichael12/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tesfamichael12/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tesfamichael12/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tesfamichael12/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamichael12/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Tesfamichael12/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -749,6 +751,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tesfamichael12/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Tesfamichael12/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Tesfamichael12/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Tesfamichael12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Tesfamichael12/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -795,6 +798,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tesfamichael12/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Tesfamichael12/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Tesfamichael12/LeetCode/tree/master/0231-power-of-two) |
