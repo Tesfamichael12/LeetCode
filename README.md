@@ -226,6 +226,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tesfamichael12/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tesfamichael12/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1582-design-browser-history](https://github.com/Tesfamichael12/LeetCode/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tesfamichael12/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tesfamichael12/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -363,6 +364,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/Tesfamichael12/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tesfamichael12/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -425,6 +427,7 @@
 | [1033-broken-calculator](https://github.com/Tesfamichael12/LeetCode/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tesfamichael12/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Tesfamichael12/LeetCode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tesfamichael12/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -815,6 +818,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/Tesfamichael12/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tesfamichael12/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/Tesfamichael12/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -885,6 +889,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tesfamichael12/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tesfamichael12/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Tesfamichael12/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tesfamichael12/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
