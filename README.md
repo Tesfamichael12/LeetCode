@@ -58,6 +58,7 @@
 | [1449-print-words-vertically](https://github.com/Tesfamichael12/LeetCode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tesfamichael12/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -363,6 +364,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tesfamichael12/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Tesfamichael12/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tesfamichael12/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tesfamichael12/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamichael12/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tesfamichael12/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1635-number-of-good-pairs](https://github.com/Tesfamichael12/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -818,6 +820,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/Tesfamichael12/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Tesfamichael12/LeetCode/tree/master/0861-flipping-an-image) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Tesfamichael12/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tesfamichael12/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tesfamichael12/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/Tesfamichael12/LeetCode/tree/master/1873-longest-nice-substring) |
@@ -885,6 +888,7 @@
 | [1184-car-pooling](https://github.com/Tesfamichael12/LeetCode/tree/master/1184-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tesfamichael12/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tesfamichael12/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tesfamichael12/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Tesfamichael12/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tesfamichael12/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tesfamichael12/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
