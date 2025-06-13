@@ -290,6 +290,7 @@
 | [3194-find-words-containing-character](https://github.com/Tesfamichael12/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3311-ant-on-the-boundary](https://github.com/Tesfamichael12/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Tesfamichael12/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tesfamichael12/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -829,6 +830,7 @@
 | [1873-longest-nice-substring](https://github.com/Tesfamichael12/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2478-longest-nice-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Tesfamichael12/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
@@ -875,6 +877,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tesfamichael12/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Tesfamichael12/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Tesfamichael12/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tesfamichael12/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Tesfamichael12/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
